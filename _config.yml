@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Susan Atwell's West Indian Literature Collection 
+title: Susan Atwell's West Indian Library 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a personal collection
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "sa-wi-lit is a collection of the books accuulated by Susan Atwell while working on a Master's at the University of the West Indies"
+description: "Susan Atwell lived in Trinidad from 1968 to 1982, teaching highschool at Lakshmi Girls' Hindu College and Hillview College. She also studied West Indian Literature at the University of the West Indies; here is a sample of the books she collected during this time."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: atwekat
 
